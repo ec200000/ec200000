@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=header&reversal=false&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Welcome+to+Itay+Cohen's+Github+Profile!;Backend+Developer;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Welcome+to+Itay+Cohen's+Github+Profile!;Backend+Developer;Devops+Engineer)](https://git.io/typing-svg)
 
 ---
 
