@@ -27,37 +27,37 @@ def life():
 - 🌱 Learning more about scalable backend solutions, database optimization, and deployment automation.
 
 ## Contact Info:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psatomas)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tomaspsa)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+558196914490)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomaspsaraujo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ec200000)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ec200000)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+972525352726)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ec200000@gmail.com)
 
 ## Languages and Tools
 
 ### Proficient With
-[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,postgresql,docker,linux,git,github,vscode)](https://github.com/psatomas)
+[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,postgresql,docker,linux,git,github,vscode)](https://github.com/ec200000)
 
 ### Familiar With
-[![Familiar With](https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,javascript)](https://github.com/psatomas)
+[![Familiar With](https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,javascript)](https://github.com/ec200000)
 
 ## ⭐️ &nbsp;GitHub Stats
 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=psatomas&show_icons=true&theme=react&hide_border=false&count_private=true&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&icon_color=00ffea&border_radius=15" height="200px"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=ec200000&show_icons=true&theme=react&hide_border=false&count_private=true&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&icon_color=00ffea&border_radius=15" height="200px"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psatomas&layout=compact&theme=react&hide_border=false&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&border_radius=15" height="200px"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ec200000&layout=compact&theme=react&hide_border=false&bg_color=0f2027&title_color=1f7fff&text_color=ffffff&border_radius=15" height="200px"/>
     </td>
   </tr>
 </table>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=psatomas&bg_color=0d1117&color=1f7fff&line=00ffea&point=00ffea&area=true&area_color=00ffea&hide_border=true)](https://github.com/psatomas)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ec200000&bg_color=0d1117&color=1f7fff&line=00ffea&point=00ffea&area=true&area_color=00ffea&hide_border=true)](https://github.com/ec200000)
 
 <p align="center"><img src="https://wakatime.com/badge/user/1365cb87-1cc0-4564-b486-b45888a5bbe3.svg" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=psatomas" alt="psatomas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ec200000" alt="ec200000" /> </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=footer&reversal=false&animation=twinkling)
 
