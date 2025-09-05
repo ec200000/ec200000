@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Welcome+to+Itay+Cohen's+Github+Profile!;Backend+Developer;Devops+Engineer)](https://git.io/typing-svg)
 
 ---
-<-
+<!--
 <h3 align="center">
 🖥️ Fullstack Developer | 🐍 Python | 🌐 JavaScript | 🗄️ SQL | 🐳 Docker | 🐧 Linux | 
 </h3>
@@ -25,7 +25,7 @@ def life():
 - 📦 Exploring **Docker** to improve deployment workflows.  
 - 🌱 Learning more about scalable backend solutions, database optimization, and deployment automation.
 
-->
+-->
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ec200000)
