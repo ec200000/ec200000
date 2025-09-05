@@ -3,10 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Welcome+to+Itay+Cohen's+Github+Profile!;Backend+Developer;Devops+Engineer)](https://git.io/typing-svg)
 
 ---
-
+<-
 <h3 align="center">
-🖥️ Backend Developer | 🐍 Python | 🌐 Django | ⚡ FastAPI | 🦀 Rust | 🗄️ SQL | 🐳 Docker | 🐧 Linux
+🖥️ Fullstack Developer | 🐍 Python | 🌐 JavaScript | 🗄️ SQL | 🐳 Docker | 🐧 Linux | 
 </h3>
+
 
 ```python 
 def life():
@@ -16,8 +17,6 @@ def life():
 
 ## 👨‍💻 About Me  
 
-<img src="./assets/programmer.png" alt="Programmer Illustration" width="350" align="right">
-
 - 🎯 Aspiring **Backend Developer**, focused on building reliable and scalable applications.  
 - 🐍 Strong interest in **Python** and the **Django** framework.  
 - ⚙️ Learning and experimenting with **Rust** for systems programming and blockchain development.  
@@ -25,6 +24,8 @@ def life():
 - 🐧 Comfortable with **Linux** and using **Git/GitHub** for version control.  
 - 📦 Exploring **Docker** to improve deployment workflows.  
 - 🌱 Learning more about scalable backend solutions, database optimization, and deployment automation.
+
+->
 
 ## Contact Info:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ec200000)
