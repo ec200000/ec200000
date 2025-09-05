@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=header&reversal=false&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=45&center=true&vCenter=true&width=1000&color=0:0f2027&lines=Welcome+to+Itay+Cohen's+Github+Profile!;Backend+Developer;Devops+Engineer)](https://git.io/typing-svg)
 
@@ -58,8 +57,6 @@ def life():
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ec200000&bg_color=0d1117&color=1f7fff&line=00ffea&point=00ffea&area=true&area_color=00ffea&hide_border=true)](https://github.com/ec200000)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ec200000" alt="ec200000" /> </p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f2027,100:1f7fff&section=footer&reversal=false&animation=twinkling)
 
 <!--
 **ec200000/ec200000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
