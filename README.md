@@ -35,10 +35,11 @@ def life():
 ## Languages and Tools
 
 ### Proficient With
-[![Proficient With](https://skillicons.dev/icons?i=python,django,fastapi,rust,postgresql,docker,linux,git,github,vscode)](https://github.com/ec200000)
+[![Proficient With](https://skillicons.dev/icons?i=python,java,nodejs,anaconda,androidstudio,cs,dart,dotnet,html,javascript,typescript,flutter)](https://github.com/ec200000)
+[![Proficient With](https://skillicons.dev/icons?i=openshift,kubernetes,ansible,docker,azure,aws,linux,bash,git,github)](https://github.com/ec200000)
 
 ### Familiar With
-[![Familiar With](https://skillicons.dev/icons?i=react,nextjs,typescript,html,css,javascript)](https://github.com/ec200000)
+[![Familiar With](https://skillicons.dev/icons?i=css,elasticsearch,grafana,kali,mongodb,nginx,ps,postman,prometheus,terraform)](https://github.com/ec200000)
 
 ## ⭐️ &nbsp;GitHub Stats
 
